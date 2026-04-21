@@ -2,11 +2,6 @@
 
 Proyek ini adalah sebuah aplikasi aplikasi Desktop (GUI) sederhana berbasis Python untuk mendiagnosa penyakit THT (Telinga, Hidung, Tenggorokan) berdasarkan sekumpulan gejala yang dipilih oleh pengguna. Aplikasi ini dikembangkan untuk penyelesaian Tugas Praktikum Kecerdasan Buatan (Sistem Pakar).
 
-## Persyaratan (Prasyarat)
-
-Aplikasi ini murni menggunakan modul bawaan (*built-in*) Python, sehingga Anda tidak perlu menginstal library eksternal via `pip`.
-Pastikan komputer Anda hanya memiliki:
-- **Python 3.x** terinstal (yang sudah disertai modul `tkinter` bawaan).
 
 ## Cara Menjalankan Aplikasi
 
